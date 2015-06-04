@@ -2,3 +2,4 @@ composer.phar
 vendor
 package/codecept.phar
 composer.lock
+idea/
