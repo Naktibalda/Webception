@@ -1,5 +1,5 @@
 {
-    "name": "jayhealey/webception",
+    "name": "appinteractive/Webception",
     "description": "Web Interface for running Codeception tests.",
     "keywords": ["codeception", "webception", "testing", "php", "web interface"],
     "homepage" : "https://github.com/jayhealey/Webception",
@@ -18,7 +18,7 @@
         "slim/views": "0.1.*",
         "twig/twig": "~1.13",
         "symfony/yaml": "2.5.*@dev",
-        "codeception/codeception": "*"
+        "codeception/codeception": "~2.0"
     },
     "autoload": {
         "psr-0": {
