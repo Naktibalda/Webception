@@ -17,7 +17,7 @@
         "slim/slim": "2.*",
         "slim/views": "0.1.*",
         "twig/twig": "~1.13",
-        "symfony/yaml": "2.5.*@dev",
+        "symfony/yaml": "~2.7",
         "codeception/codeception": "~2.0"
     },
     "autoload": {
