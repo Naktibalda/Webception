@@ -447,10 +447,10 @@ APP = {
                 env = env.join('+');
 
                 var url = test.attr('action') + '?env=' + env;
-
+                
                 // Run the test
                 $.ajax({
-                    url         : test.attr('action'),
+                    url         : url,
                     method      : 'GET',
                     cache       : false,
                     dataType    : "json",
